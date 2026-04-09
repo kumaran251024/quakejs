@@ -20,7 +20,7 @@
     "execSync": "~1.0.1-pre",
     "express": "~3.3.5",
     "optimist": "~0.6.0",
-    "quakejs-files": "0.0.3",
+    "quakejs-files": "*",
     "send": "^0.16.2",
     "temp": "~0.5.1",
     "underscore": "~1.5.1",
